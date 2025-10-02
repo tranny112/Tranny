@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Newton',
+  packname: 'kNewton',
   author: '‎',
   botName: "KClareBot",
   botOwner: 'Clare', // Your name
