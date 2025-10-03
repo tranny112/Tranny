@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "KClareBot",
   botOwner: 'Clare', // Your name
-  ownerNumber: '+254704771738', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '+25470477', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
